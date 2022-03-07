@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2022-03-03 04:45:51
+/* Smarty version 3.1.39, created on 2022-03-07 10:48:57
   from 'C:\xampp\htdocs\LinelExpense\ui\theme\ibilling\sections\nav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_62208e4fb39f73_09313167',
+  'unifunc' => 'content_62262969842124_08408916',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62208e4fb39f73_09313167 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62262969842124_08408916 (Smarty_Internal_Template $_smarty_tpl) {
 ?><ul class="nav" id="side-menu">
 
     <li class="nav-header">

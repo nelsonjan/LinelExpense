@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2022-03-06 02:55:01
+/* Smarty version 3.1.39, created on 2022-03-07 10:48:56
   from 'C:\xampp\htdocs\LinelExpense\ui\theme\ibilling\layouts\admin.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_622468d504c6a2_87974054',
+  'unifunc' => 'content_62262968ce89e1_36363985',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_622468d504c6a2_87974054 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62262968ce89e1_36363985 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
@@ -237,7 +237,7 @@ logout/"><?php echo $_smarty_tpl->tpl_vars['_L']->value['Logout'];?>
 <?php }?>
 
                 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1947149045622468d501d784_90736365', "content");
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2175573462262968cace16_18892009', "content");
 ?>
 
 
@@ -423,7 +423,7 @@ ui/lib/ibilling.js"><?php echo '</script'; ?>
 <?php }?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_152248801622468d5045bb2_81130875', 'script');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_38171999662262968cdf505_99718620', 'script');
 ?>
 
 
@@ -445,12 +445,12 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_152248801622468d50
 </html>
 <?php }
 /* {block "content"} */
-class Block_1947149045622468d501d784_90736365 extends Smarty_Internal_Block
+class Block_2175573462262968cace16_18892009 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'content' => 
   array (
-    0 => 'Block_1947149045622468d501d784_90736365',
+    0 => 'Block_2175573462262968cace16_18892009',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -458,12 +458,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block "content"} */
 /* {block 'script'} */
-class Block_152248801622468d5045bb2_81130875 extends Smarty_Internal_Block
+class Block_38171999662262968cdf505_99718620 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'script' => 
   array (
-    0 => 'Block_152248801622468d5045bb2_81130875',
+    0 => 'Block_38171999662262968cdf505_99718620',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
