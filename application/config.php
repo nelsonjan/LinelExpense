@@ -3,6 +3,6 @@ $db_host 		= "localhost"; # Database Host
 $db_user 		= 'root'; # Database Username
 $db_password 	= ''; # Database Password
 $db_name 		= 'linel'; # Database Name
-define('APP_URL', 'https://master.d1hkaimtpz1bxe.amplifyapp.com '); # Application URL.
+define('APP_URL', 'http://localhost/linelexpense'); # Application URL.
 #Please include http and do not use trailing slash after the url. For example use in this format- http://www.example.com Or http://www.example.com/finance
-$_app_stage = 'Prod'; # Change Live to Dev to enable Debug
+$_app_stage = 'Dev'; # Change Live to Dev to enable Debug
