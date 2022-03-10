@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2022-03-07 10:48:56
+/* Smarty version 3.1.39, created on 2022-03-07 12:13:38
   from 'C:\xampp\htdocs\LinelExpense\ui\theme\ibilling\layouts\admin.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_62262968ce89e1_36363985',
+  'unifunc' => 'content_62263d4221ac83_28903698',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'ac6691e630b3eb25da8a3fb03ca67d160fc4ec99' => 
     array (
       0 => 'C:\\xampp\\htdocs\\LinelExpense\\ui\\theme\\ibilling\\layouts\\admin.tpl',
-      1 => 1646553293,
+      1 => 1646673214,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62262968ce89e1_36363985 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62263d4221ac83_28903698 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
@@ -113,7 +113,7 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
             <div class="row border-bottom">
                 <nav class="navbar navbar-fixed-top white-bg" role="navigation" style="margin-bottom: 0">
 
-                    <img class="logo" style="max-height: 40px; width: auto;" src="<?php echo $_smarty_tpl->tpl_vars['app_url']->value;?>
+                    <img class="logo" style="max-height: 40px; width: auto; margin-top: 10px; margin-bottom: 10px;" src="<?php echo $_smarty_tpl->tpl_vars['app_url']->value;?>
 application/storage/system/logo.jpg" alt="Logo">
 
                     <div class="navbar-header">
@@ -237,7 +237,7 @@ logout/"><?php echo $_smarty_tpl->tpl_vars['_L']->value['Logout'];?>
 <?php }?>
 
                 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2175573462262968cace16_18892009', "content");
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_17767217462263d4220bb13_17799030', "content");
 ?>
 
 
@@ -423,7 +423,7 @@ ui/lib/ibilling.js"><?php echo '</script'; ?>
 <?php }?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_38171999662262968cdf505_99718620', 'script');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_112993391062263d42217e31_31911741', 'script');
 ?>
 
 
@@ -445,12 +445,12 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_38171999662262968c
 </html>
 <?php }
 /* {block "content"} */
-class Block_2175573462262968cace16_18892009 extends Smarty_Internal_Block
+class Block_17767217462263d4220bb13_17799030 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'content' => 
   array (
-    0 => 'Block_2175573462262968cace16_18892009',
+    0 => 'Block_17767217462263d4220bb13_17799030',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -458,12 +458,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block "content"} */
 /* {block 'script'} */
-class Block_38171999662262968cdf505_99718620 extends Smarty_Internal_Block
+class Block_112993391062263d42217e31_31911741 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'script' => 
   array (
-    0 => 'Block_38171999662262968cdf505_99718620',
+    0 => 'Block_112993391062263d42217e31_31911741',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
