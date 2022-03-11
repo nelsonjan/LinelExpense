@@ -13815,8 +13815,8 @@ button.dim:active:before {
 }
 
 a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus {
-    background-color: #2196f3;
-    border-color: #2196f3;
+    background-color: #2f4050;
+    border-color: #2f4050;
     color: #fff;
     z-index: 2
 }
@@ -16907,7 +16907,7 @@ table.dataTable thead .sorting:after {
 }
 
 #cropContainerHeaderButton {
-    margin-left: 84px
+    margin-left: 113px
 }
 
 .sys_table > thead > tr > th, .sys_table > thead > tr > td {

@@ -112,7 +112,7 @@ class Demo
                     $company->save();
                 }
 
-                update_option('CompanyName', 'CloudOnex LLC.');
+                update_option('CompanyName', 'Linel Inc.');
                 update_option('nstyle', 'dark');
                 update_option('currency_code', '$');
                 update_option('country', 'United States');
@@ -124,7 +124,7 @@ class Demo
                 update_option('language', 'en');
                 update_option(
                     'caddress',
-                    'CloudOnex <br>1101 Marina Villae Parkway, Suite 201<br>Alameda, California 94501<br>United State'
+                    'Linel Inc. <br>Links Road, Nyali<br>34101 - 80118<br>Mombasa'
                 );
 
                 update_option('graph_primary_color', '2196f3');
@@ -136,7 +136,7 @@ class Demo
 
                 update_option('networth_goal', '350000');
 
-                update_option('logo_default', 'logo.png');
+                update_option('logo_default', 'logo.jpg');
                 update_option('logo_inverse', 'logo_white.png');
 
                 $user = User::find(1);

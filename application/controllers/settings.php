@@ -10,7 +10,7 @@ $user = User::_info();
 $ui->assign('user', $user);
 $ui->assign('_user', $user);
 
-$update_server = 'http://www.jjj.com/';
+$update_server = 'http://www.linelpoultry.com/';
 
 switch ($action) {
     case 'expense-categories':

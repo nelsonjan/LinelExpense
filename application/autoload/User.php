@@ -5,7 +5,7 @@ class User
     public static function _info()
     {
         if (!isset($_SESSION['uid'])) {
-            echo 'You have logged out. <a href="' .
+            echo 'You are logged out. <a href="' .
                 U .
                 'login/">Click Here to Login.</a>';
             exit();

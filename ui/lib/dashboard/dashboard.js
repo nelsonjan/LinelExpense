@@ -8,7 +8,7 @@ $(function() {
 
       var  option = {
             title : {
-                text: _L['Cash Flw'],
+                text: _L['Cash Flow'],
                 subtext: _L['Last 12 Months']
             },
             tooltip : {
